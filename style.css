@@ -14,7 +14,7 @@ body{
 }
 
 .cabeçalho-imagem{
-    width: 30%;
+    width: 15%;
     padding: 12px;
 }
 
@@ -22,7 +22,8 @@ body{
     display: inline-block;
     padding: 30px;
     color: beige;
-    font-size: 15px;
+    font-size: 25px;
     font-weight: bolder;
+    text-decoration: underline;
 }
 
