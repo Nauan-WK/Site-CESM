@@ -27,7 +27,7 @@ body{
     text-decoration: underline;
 }
 .escola{
- 
+    background-image: linear-gradient();
     display: flex;
     justify-content: center;
 }
