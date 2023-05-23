@@ -28,7 +28,6 @@ body{
 }
 .escola{
     background-image: linear-gradient();
-    display: flex;
     justify-content: left;
     align-items: center;
 }
@@ -41,6 +40,6 @@ body{
     color: white;
 }
 .escola-imagem{
-    width: 50%;
+    width: 100%;
 }
 
