@@ -11,36 +11,41 @@ body{
     background-color:#1D71A0 ;
     display: flex;
     justify-content: space-around;
+    align-items: flex-end;
 }
 
 .cabeçalho-imagem{
-    width: 20%;
+    width: 30%;
     padding: 12px;
 }
 
 .lista-cabeçalho{
     display: inline-block;
     padding: 30px;
-    color: beige;
-    font-size: 25px;
+    font-size: 35px;
     font-weight: bolder;
-    text-decoration: underline;
+}
+.texto-lista{
+    display: inline-block;
+    list-style-type: none;
+    font-size: 21px;  
+}
+.escola-imagem{
+    width: 95%;
+    margin: 42px;
 }
 .escola{
     background-image: linear-gradient();
     display: flex;
     justify-content: left;
     align-items: right;
+    padding: 24px 0;
 }
-.texto-lista{
-    display: inline-block;
-    font-size: 50px;
+.escola-texto{
+    text-align: justify;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-style: italic;
-    font-weight: bold;
-    color: white;
+    font-size: 25px;
+    margin: 20px;
 }
-.escola-imagem{
-    width: 100%;
-}
+
 
