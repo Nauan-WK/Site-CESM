@@ -8,7 +8,10 @@ body{
 }
 
 .cabeçalho{
-    
+    background-color:#1D71A0 ;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
 }
 
 .cabeçalho-imagem{
@@ -28,8 +31,7 @@ body{
     font-size: 21px;  
 }
 .escola-imagem{
-    width: 95%;
-    margin: 42px;
+    
 }
 .escola{
     background-image: linear-gradient();
