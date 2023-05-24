@@ -9,9 +9,9 @@ body{
 
 .cabeçalho{
     background-color:#1D71A0 ;
-    display: 
+    display: flex;
     justify-content: space-around;
-    align-items: 
+    align-items: flex-end;
 }
 
 .cabeçalho-imagem{
