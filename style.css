@@ -20,7 +20,10 @@ body{
 }
 
 .lista-cabeçalho{
-    
+    display: inline-block;
+    padding: 30px;
+    font-size: 35px;
+    font-weight: bolder;
 }
 .texto-lista{
     display: inline-block;
