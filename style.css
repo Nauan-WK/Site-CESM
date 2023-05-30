@@ -30,7 +30,8 @@ body{
 .texto-lista{
     display: inline-block;
     list-style-type: none;
-    font-size: 21px;  
+    font-size: 21px;
+    font-family: Helvetica, Arial, sans-serif;  
 }
 .escola-imagem{
     width: 50%;
