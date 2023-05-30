@@ -50,5 +50,8 @@ body{
     font-size: 25px;
     margin: 20px;
 }
+.Direção{
+    display: flex;
+}
 
 
