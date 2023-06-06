@@ -59,7 +59,7 @@ body{
 .equipe-escola{
     margin: 20px;
     display: flex;
-    padding: 50px;
+    padding: 10px;
     justify-content: space-evenly;
 }
 .equipe-colunas{
