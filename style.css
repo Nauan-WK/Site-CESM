@@ -54,14 +54,14 @@ body{
      text-align: center;
      color: white;
      display: flex;
-     margin-left: auto;
+     margin-left: 100px;
 }
 .Direção{
     background-color: black;
     font-family: Helvetica, Arial, sans-serif;
     color: white;
     display: flex;
-    align-items: center;
+
 }
 .equipe-escola{
     margin: 10px;
