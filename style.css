@@ -51,6 +51,11 @@ body{
 }
 
 .equipe{
+     text-align: center;
+     color: white;
+     display: flex;
+}
+.Direção{
     background-color: black;
     font-family: Helvetica, Arial, sans-serif;
     color: white;
