@@ -50,14 +50,13 @@ body{
     font-size: 35px;
     margin: 20px;
 }
+
 .Direção{
     background-color: black;
     font-family: Helvetica, Arial, sans-serif;
     color: white;
     display: flex;
 }
-.h3{
-    display: flex;
-}
+
 
 
