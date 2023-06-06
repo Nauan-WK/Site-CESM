@@ -51,7 +51,7 @@ body{
     margin: 20px;
 }
 .Direção{
-    display: flex;
+    display: inline;
     background-color: black;
     font-family: Helvetica, Arial, sans-serif;
     color: white;
