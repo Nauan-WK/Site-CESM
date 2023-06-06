@@ -51,9 +51,10 @@ body{
 }
 
 .equipe{
-     text-align: right;
+     text-align: center;
      color: white;
      display: flex;
+     margin-left: auto;
 }
 .Direção{
     background-color: black;
