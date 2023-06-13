@@ -57,12 +57,13 @@ body{
     display: flex;
     padding: 50px;
     justify-content: space-evenly;
+    background-color: black;
+    display: flex;
 }
 .equipe-colunas{
     display: contents;
     list-style-type: none;
     text-align: center;
-    background-color:black;
 }
 
 
