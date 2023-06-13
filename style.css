@@ -50,11 +50,6 @@ body{
     font-size: 35px;
 }
 
-.Direção{
-    background-color: black;
-    font-family: Helvetica, Arial, sans-serif;
-    color: white;
-    display: flex;
 
 }
 .equipe-escola{
@@ -62,6 +57,7 @@ body{
     display: flex;
     padding: 50px;
     justify-content: space-evenly;
+    background-color: black;
 }
 .equipe-colunas{
     display: contents;
