@@ -57,6 +57,8 @@ body{
     justify-content: space-evenly;
     background-color: black;
     display: flex;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .equipe-colunas{
     display: contents;
