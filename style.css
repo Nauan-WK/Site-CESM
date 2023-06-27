@@ -49,6 +49,7 @@ body{
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Verdana, 'Trebuchet MS', sans-serif;
     font-size: 35px;
+    font-weight: 400;
 }
 
 .equipe-escola{ 
@@ -59,7 +60,6 @@ body{
     background-color: black;
     color: white;
     font-family: Verdana, Tahoma, sans-serif;
-    font-weight: 600;
 }
 
 .equipe-colunas{
