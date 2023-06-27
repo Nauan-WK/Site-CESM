@@ -84,6 +84,12 @@ body{
     text-decoration: underline;
 }
 
+.rodapé{
+    align-items: center;
+    background-color: #0B1040;
+    color: white;
+    font-weight: 500;
+}
 
 
 
