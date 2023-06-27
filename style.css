@@ -85,11 +85,11 @@ body{
 }
 
 .rodapé{
-    align-items: center;
     background-color: #0B1040;
     color: white;
-    font-weight: 500;
+    font-weight: 800;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
 
 
